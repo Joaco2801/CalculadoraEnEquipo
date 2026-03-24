@@ -1,4 +1,5 @@
-﻿public static class Program
+﻿using Sumar;
+public static class Program
 {
     public static void Main()
     {
@@ -7,4 +8,5 @@
         Console.WriteLine(Multiplicacion.Multiplicar(5, 6));
         Console.WriteLine(Division.Dividir(7, 8));
     }
+    
 }
