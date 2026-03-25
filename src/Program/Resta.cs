@@ -1,8 +1,11 @@
-// Esta clase implementa la operación resta
-public class Resta
+namespace Operaciones
 {
-    public static int Restar(int a, int b)
+    // Esta clase implementa la operación resta
+    public class Resta
     {
-        return a - b;
+        public static int Restar(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
