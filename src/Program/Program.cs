@@ -8,5 +8,4 @@ public static class Program
         Console.WriteLine(Multiplicacion.Multiplicar(5, 6));
         Console.WriteLine(Division.Dividir(7, 8));
     }
-    
 }
