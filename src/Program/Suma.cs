@@ -1,4 +1,4 @@
-﻿namespace Sumar
+﻿namespace Operaciones
 {
     public class Suma
     {
