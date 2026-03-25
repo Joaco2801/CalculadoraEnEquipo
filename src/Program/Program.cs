@@ -1,4 +1,5 @@
-﻿public static class Program
+﻿using Opera;
+public static class Program
 {
     public static void Main()
     {
