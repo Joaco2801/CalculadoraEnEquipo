@@ -4,7 +4,7 @@
     {
         public static int Sumar(int a, int b)
         {
-            return 0;
+            return a + b;
         }
     }
 }
